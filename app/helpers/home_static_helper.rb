@@ -1,0 +1,2 @@
+module HomeStaticHelper
+end
